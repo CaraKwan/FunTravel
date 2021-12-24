@@ -1,0 +1,34 @@
+{
+    "header": {
+        "slogan": "Make travel happier",
+        "add_new_language": "add new language",
+        "title": "FunTravel",
+        "register":"Register",
+        "signin":"Sign In",
+        "home_page": "Home",
+        "weekend": "Weekend",
+        "group": "Group",
+        "cruise": "Cruise",
+        "hotel": "Hotel & Attractions",
+        "local": "Local",
+        "theme": "Theme",
+        "visa":"Visa",
+        "enterprise":"Enterprise",
+        "high_end":"High-end",
+        "outdoor":"Outdoor",
+        "insurance":"Insurance",
+        "shoppingCart": "Shopping Cart",
+        "signOut": "Sign Out",
+        "welcome": "Welcome back "
+    },
+    "footer": {
+        "detail" : "All rights reserved @ FunTravel.com"
+    },
+    "home_page": {
+        "hot_recommended": "Hot Recommended",
+        "new_arrival": "New arrival",
+        "domestic_travel": "Domestic travel",
+        "joint_venture": "Joint Venture",
+        "start_from": "(start from)"
+    }
+}
